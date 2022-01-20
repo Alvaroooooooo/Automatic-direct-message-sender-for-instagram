@@ -1,5 +1,5 @@
 # InstagramMessage
-This software is designed to send a message to a group of Instagram users automatically.
+This software is designed to send a message individually to a set of Instagram users automatically.
 
 PRE REQUIREMENTS:
 - Install "Google Chrome" since it is the browser used in the software.
