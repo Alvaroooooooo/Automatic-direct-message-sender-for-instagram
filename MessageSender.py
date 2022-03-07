@@ -4,7 +4,7 @@ def messageSender(driver):
     time.sleep(4)
     driver.get("https://www.instagram.com/direct/inbox/")
     time.sleep(2)
-    driver.find_element_by_xpath('/html/body/div[4]/div/div/div/div[3]/button[2]').click()
+    driver.find_element_by_xpath('/html/body/div[5]/div/div/div/div[3]/button[2]').click()
 
     users = open("USERS.txt")
     content = users.readlines()
